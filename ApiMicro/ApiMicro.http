@@ -1,0 +1,6 @@
+@ApiMicro_HostAddress = http://localhost:8080
+
+GET {{ApiMicro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
